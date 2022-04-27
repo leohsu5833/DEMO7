@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\stevenhsu\\DEMO7\\app\\build\\intermediates\\merged_res\\debug\\menu_menu1.xml.flat",
+        "source": "C:\\stevenhsu\\DEMO7\\app\\src\\main\\res\\menu\\menu1.xml"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO7\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\stevenhsu\\DEMO7\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO7\\app\\build\\intermediates\\merged_res\\debug\\drawable_g1.png.flat",
+        "source": "C:\\stevenhsu\\DEMO7\\app\\src\\main\\res\\drawable\\g1.png"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\stevenhsu\\DEMO7\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO7\\app\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
+        "source": "C:\\stevenhsu\\DEMO7\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\stevenhsu\\DEMO7\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]
